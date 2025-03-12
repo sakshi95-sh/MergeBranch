@@ -1,1 +1,2 @@
-Test Feature 1 conflict
+Conflict 1
+
